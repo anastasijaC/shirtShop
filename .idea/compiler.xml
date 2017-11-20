@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="shirt-shop_main" target="1.8" />
-      <module name="shirt-shop_test" target="1.8" />
+      <module name="shirtShop_main" target="1.8" />
+      <module name="shirtShop_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

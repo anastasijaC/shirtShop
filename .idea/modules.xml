@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/shirt-shop.iml" filepath="$PROJECT_DIR$/shirt-shop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shirt-shop_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shirt-shop_main.iml" group="shirt-shop" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shirt-shop_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shirt-shop_test.iml" group="shirt-shop" />
+      <module fileurl="file://$PROJECT_DIR$/shirtShop.iml" filepath="$PROJECT_DIR$/shirtShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shirtShop_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shirtShop_main.iml" group="shirtShop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shirtShop_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shirtShop_test.iml" group="shirtShop" />
     </modules>
   </component>
 </project>
